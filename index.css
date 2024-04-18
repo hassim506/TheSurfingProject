@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.carou{
+    .caro{
+        display: flex;
+        justify-content: space-around;
+    }
+    h1{
+        padding: 5%;
+        text-align: center;
+    }
+    
+}
+.temoignages{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    h1{
+        text-align: center;
+        padding: 50px;
+    }
+    .photo{
+        display: flex;
+        justify-content: space-between;
+       padding: 50px;
+       
+    }
+}
